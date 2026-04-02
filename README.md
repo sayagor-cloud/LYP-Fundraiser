@@ -1,4 +1,3 @@
-# LYP-Fundraiser
 <!DOCTYPE html>
 <html lang="en">
 <head>
